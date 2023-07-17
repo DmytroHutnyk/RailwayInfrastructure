@@ -1,0 +1,2658 @@
+Log on: 0 seconds[
+TrainSet:
+ ID number: 0
+ Length of route: 1045.037191531028
+ Number of electric railcars: 1
+ Load of weight: 3240.0998659743154
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: A Coruña
+ Consists of:
+  Locomotive :
+	ID number: 1	Name: Pearl Jam
+	Number of Railcars: 14
+	Maximum weight: 3275.388164020651
+	Maximum of Electric Railcars: 3
+	Speed at current moment: 141.18641949406302
+	Home railway station: Höfn í Hornafirði
+	Starting railway station: A Coruña
+	Destination railway station: Prokuplje
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 1
+	Net Weight: 59.81232214103197
+	gross weight: 63.882916391894405
+	electric grid: true
+	numbers of read letters: 319
+	numbers of unread letters: 337
+	num of complaints: 19
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 2
+	Net Weight: 60.74327772252506
+	Gross weight: 60.74327772252506
+	Number of seats: 16
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 4
+	Net Weight: 65.98375957232403
+	Gross weight: 94.39761537033057
+	Cargo weight: 28.413855798006537
+	Max cargo weight: 90000.0
+	Occupied space: 0.03157095088667393%
+	Electrical grid: falseVolume: 21.539019598565694m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 3
+	Net Weight: 58.34922584133074
+	Gross weight: 3084.95897288146
+	Cargo weight: 3026.609747040129
+	Max cargo weight: 90000.0
+	Occupied space: 3.362899718933477%
+	Electrical grid: falseSafety level: 6
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 18
+ Length of route: 1040.522467310889
+ Number of electric railcars: 3
+ Load of weight: 585.9466091417025
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Plymouth
+ Consists of:
+  Locomotive :
+	ID number: 19	Name: I Am a Rock
+	Number of Railcars: 7
+	Maximum weight: 1901.647454262195
+	Maximum of Electric Railcars: 4
+	Speed at current moment: 114.86162519041824
+	Home railway station: Borås
+	Starting railway station: Plymouth
+	Destination railway station: Volos
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 137
+	Net Weight: 8.48997252890663
+	Gross weight: 176.0
+	Number of meals: 147
+	Number of eaten meals: 159
+	Vegetarian menu available: true
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 141
+	Net Weight: 60.74836707155519
+	Gross weight: 183.0
+	Number of meals: 119
+	Number of eaten meals: 248
+	Vegetarian menu available: true
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 142
+	Net Weight: 91.0842195085738
+	Gross weight: 168.0
+	Number of meals: 397
+	Number of eaten meals: 99
+	Vegetarian menu available: false
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 139
+	Net Weight: 9.805377256829551
+	Gross weight: 58.16094912334441
+	Cargo weight: 48.35557186651486
+	Max cargo weight: 90000.0
+	Occupied space: 0.053728413185016505%
+	Electrical grid: falseVolume: 25.871167374099745m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 136
+	Net Weight: 49.06121381238808
+	Gross weight: 108.32791922637026
+	Cargo weight: 59.266705413982166
+	Max cargo weight: 90000.0
+	Occupied space: 0.06585189490442463%
+	Electrical grid: falseVolume: 35.98868594969959m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 138
+	Net Weight: 42.49282273457745
+	Gross weight: 112.08942507695119
+	Cargo weight: 69.59660234237374
+	Max cargo weight: 90000.0
+	Occupied space: 0.07732955815819305%
+	Electrical grid: falseVolume: 49.44608631204228m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 140
+	Net Weight: 52.603251274055815
+	Gross weight: 307.3683157150368
+	Cargo weight: 254.76506444098098
+	Max cargo weight: 90000.0
+	Occupied space: 0.28307229382331217%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min 
+, 
+TrainSet:
+ ID number: 4
+ Length of route: 949.1552205003469
+ Number of electric railcars: 1
+ Load of weight: 1305.16210257428
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Borås
+ Consists of:
+  Locomotive :
+	ID number: 5	Name: Green Day
+	Number of Railcars: 9
+	Maximum weight: 2387.8901652492796
+	Maximum of Electric Railcars: 3
+	Speed at current moment: 92.80574110721875
+	Home railway station: Palanga
+	Starting railway station: Borås
+	Destination railway station: Manchester
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 30
+	Net Weight: 63.06213212526753
+	Gross weight: 176.0
+	Number of meals: 132
+	Number of eaten meals: 240
+	Vegetarian menu available: true
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 32
+	Net Weight: 62.43602239270846
+	gross weight: 77.56927769065375
+	electric grid: true
+	numbers of read letters: 216
+	numbers of unread letters: 157
+	num of complaints: 227
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 33
+	Net Weight: 86.58255291156522
+	Gross weight: 631.3998017178482
+	Electrical grid: false
+	Numbers of bags: 59
+	Bag weight: 9.234190657733608
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 34
+	Net Weight: 77.37851582064664
+	Gross weight: 214.54680834318987
+	Cargo weight: 137.16829252254323
+	Max cargo weight: 75000.0
+	Available space: 99.81710894330328%
+	Electrical grid: falseVolume: 355.49708060043116m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 35
+	Net Weight: 54.6324149622083
+	gross weight: 107.92942140569892
+	electric grid: true
+	numbers of read letters: 27
+	numbers of unread letters: 59
+	num of complaints: 389
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 29
+	Net Weight: 75.28660070758997
+	Gross weight: 80.03844458447506
+	Cargo weight: 4.751843876885086
+	Max cargo weight: 90000.0
+	Occupied space: 0.005279826529872318%
+	Electrical grid: falseVolume: 13.926760196643805m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 28
+	Net Weight: 93.49876484485803
+	Gross weight: 121.3197254852982
+	Cargo weight: 27.820960640440173
+	Max cargo weight: 90000.0
+	Occupied space: 0.030912178489377967%
+	Electrical grid: falseVolume: 42.184933864523835m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 31
+	Net Weight: 54.80191896255033
+	Gross weight: 1103.8039325045067
+	Cargo weight: 1049.0020135419563
+	Max cargo weight: 90000.0
+	Occupied space: 1.1655577928243959%
+	Electrical grid: falseSafety level: 2
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 13
+ Length of route: 942.1548891364316
+ Number of electric railcars: 1
+ Load of weight: 3268.9601662416044
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Teplice
+ Consists of:
+  Locomotive :
+	ID number: 14	Name: Magician's Red
+	Number of Railcars: 7
+	Maximum weight: 4233.055848741758
+	Maximum of Electric Railcars: 7
+	Speed at current moment: 116.91051886385029
+	Home railway station: Constance
+	Starting railway station: Teplice
+	Destination railway station: Karlovy Vary
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 96
+	Net Weight: 85.37472999887716
+	Gross weight: 351.6705512438311
+	Cargo weight: 266.2958212449539
+	Max cargo weight: 75000.0
+	Available space: 99.64493890500673%
+	Electrical grid: falseVolume: 253.24543968220004m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 99
+	Net Weight: 70.51589033746477
+	Gross weight: 314.6098786257724
+	Cargo weight: 244.09398828830763
+	Max cargo weight: 75000.0
+	Available space: 99.67454134894892%
+	Electrical grid: falsePressure is: 35.52689068309426psi
+	Max pressure is: 500.0psi
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 100
+	Net Weight: 78.6805119038844
+	Gross weight: 90.33577895397744
+	Cargo weight: 11.655267050093043
+	Max cargo weight: 75000.0
+	Available space: 99.9844596439332%
+	Electrical grid: true temperature: -19.354058990766696
+	min temperature: -75.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 102
+	Net Weight: 38.44538612865437
+	gross weight: 45.84491895500035
+	electric grid: true
+	numbers of read letters: 245
+	numbers of unread letters: 41
+	num of complaints: 43
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 103
+	Net Weight: 92.41918209285569
+	gross weight: 97.53709314791388
+	electric grid: true
+	numbers of read letters: 40
+	numbers of unread letters: 14
+	num of complaints: 147
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 98
+	Net Weight: 60.38150646440796
+	Gross weight: 60.38150646440796
+	Number of seats: 13
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 104
+	Net Weight: 55.03292336937881
+	Gross weight: 73.81212315277162
+	Cargo weight: 18.77919978339282
+	Max cargo weight: 90000.0
+	Occupied space: 0.02086577753710313%
+	Electrical grid: falseVolume: 42.4012307710682m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 97
+	Net Weight: 52.24862077068998
+	Gross weight: 92.74243864416559
+	Cargo weight: 40.493817873475614
+	Max cargo weight: 90000.0
+	Occupied space: 0.04499313097052846%
+	Electrical grid: falseVolume: 1.3587936987237481m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 101
+	Net Weight: 27.93442118891585
+	Gross weight: 3042.0240979802593
+	Cargo weight: 3014.089676791343
+	Max cargo weight: 90000.0
+	Occupied space: 3.3489885297681594%
+	Electrical grid: falseSafety level: 6
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 23
+ Length of route: 940.1325155762773
+ Number of electric railcars: 2
+ Load of weight: 183.2744799557721
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Nuremberg
+ Consists of:
+  Locomotive :
+	ID number: 24	Name: Speed King
+	Number of Railcars: 9
+	Maximum weight: 3217.345353548524
+	Maximum of Electric Railcars: 8
+	Speed at current moment: 72.5453640727597
+	Home railway station: Trikala
+	Starting railway station: Nuremberg
+	Destination railway station: Lille
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 172
+	Net Weight: 0.6869812415690291
+	Gross weight: 57.963052150295994
+	Cargo weight: 57.276070908726965
+	Max cargo weight: 75000.0
+	Available space: 99.92363190545503%
+	Electrical grid: true temperature: -53.71545847771036
+	min temperature: -75.0
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 175
+	Net Weight: 32.56408262985975
+	Gross weight: 123.84587417050636
+	Cargo weight: 91.28179154064662
+	Max cargo weight: 75000.0
+	Available space: 99.87829094461247%
+	Electrical grid: true temperature: 2.3900249494566737
+	min temperature: -75.0
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 176
+	Net Weight: 15.820202470987832
+	Gross weight: 198.0
+	Number of meals: 97
+	Number of eaten meals: 86
+	Vegetarian menu available: true
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 177
+	Net Weight: 13.604146006851847
+	Gross weight: 145.18746479353018
+	Cargo weight: 131.58331878667835
+	Max cargo weight: 75000.0
+	Available space: 99.82455557495109%
+	Electrical grid: falsePressure is: 22.993966334097315psi
+	Max pressure is: 500.0psi
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 178
+	Net Weight: 17.50301731423788
+	Gross weight: 115.73870399665114
+	Cargo weight: 98.23568668241326
+	Max cargo weight: 75000.0
+	Available space: 99.86901908442344%
+	Electrical grid: true temperature: 26.316232409514022
+	min temperature: -75.0
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 179
+	Net Weight: 24.03542862760837
+	Gross weight: 212.58750709615117
+	Cargo weight: 188.5520784685428
+	Max cargo weight: 75000.0
+	Available space: 99.7485972287086%
+	Electrical grid: falseVolume: 304.4939903429538m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 180
+	Net Weight: 45.49575914831867
+	gross weight: 1.4886267187444069
+	electric grid: true
+	numbers of read letters: 217
+	numbers of unread letters: 76
+	num of complaints: 77
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 173
+	Net Weight: 72.95302094627719
+	Gross weight: 72.95302094627719
+	Number of seats: 37
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 174
+	Net Weight: 31.807708489761378
+	Gross weight: 110.3214590094949
+	Cargo weight: 78.51375051973352
+	Max cargo weight: 90000.0
+	Occupied space: 0.0872375005774817%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min 
+, 
+TrainSet:
+ ID number: 20
+ Length of route: 871.7718463800242
+ Number of electric railcars: 0
+ Load of weight: 2133.006460226217
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Volos
+ Consists of:
+  Locomotive :
+	ID number: 21	Name: Blue Hawaii
+	Number of Railcars: 11
+	Maximum weight: 2700.709000371218
+	Maximum of Electric Railcars: 7
+	Speed at current moment: 99.44744544091532
+	Home railway station: Sombor
+	Starting railway station: Volos
+	Destination railway station: Leskovac
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 154
+	Net Weight: 55.78957641853437
+	Gross weight: 161.3592134398761
+	Cargo weight: 105.56963702134173
+	Max cargo weight: 75000.0
+	Available space: 99.85924048397155%
+	Electrical grid: falsePressure is: 39.55653509596231psi
+	Max pressure is: 500.0psi
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 153
+	Net Weight: 12.980795784762245
+	Gross weight: 118.70009166793895
+	Cargo weight: 105.7192958831767
+	Max cargo weight: 90000.0
+	Occupied space: 0.11746588431464076%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 150
+	Net Weight: 85.70921619659511
+	Gross weight: 157.0648000346393
+	Cargo weight: 71.35558383804418
+	Max cargo weight: 90000.0
+	Occupied space: 0.07928398204227131%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 152
+	Net Weight: 8.88767559892556
+	Gross weight: 288.78373483723504
+	Cargo weight: 279.8960592383095
+	Max cargo weight: 90000.0
+	Occupied space: 0.3109956213758994%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 151
+	Net Weight: 28.644256988644223
+	Gross weight: 1568.4578336864035
+	Cargo weight: 1539.8135766977593
+	Max cargo weight: 90000.0
+	Occupied space: 1.7109039741086214%
+	Electrical grid: falseSafety level: 3
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 9
+ Length of route: 854.3800153531898
+ Number of electric railcars: 0
+ Load of weight: 0.0
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Kópasker
+ Consists of:
+  Locomotive :
+	ID number: 10	Name: Nut King Call
+	Number of Railcars: 5
+	Maximum weight: 1664.4496857146814
+	Maximum of Electric Railcars: 3
+	Speed at current moment: 164.38821876456973
+	Home railway station: Trikala
+	Starting railway station: Kópasker
+	Destination railway station: Liepāja
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 67
+	Net Weight: 50.5396963614004
+	Gross weight: 89.66614833823941
+	Electrical grid: false
+	Numbers of bags: 35
+	Bag weight: 1.1178986279096859
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 68
+	Net Weight: 10.106572253118628
+	gross weight: 102.62308633960083
+	electric grid: true
+	numbers of read letters: 15
+	numbers of unread letters: 171
+	num of complaints: 314 
+, 
+TrainSet:
+ ID number: 19
+ Length of route: 835.6212911873204
+ Number of electric railcars: 1
+ Load of weight: 3305.730489301649
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Šabac
+ Consists of:
+  Locomotive :
+	ID number: 20	Name: Heaven's Door
+	Number of Railcars: 11
+	Maximum weight: 4280.809323838082
+	Maximum of Electric Railcars: 5
+	Speed at current moment: 88.23014812646483
+	Home railway station: Kraljevo
+	Starting railway station: Šabac
+	Destination railway station: Radoviš
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 145
+	Net Weight: 77.47974481034845
+	Gross weight: 166.29313263186782
+	Electrical grid: false
+	Numbers of bags: 12
+	Bag weight: 7.4011156517932815
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 148
+	Net Weight: 54.34295179158476
+	Gross weight: 151.0
+	Number of meals: 158
+	Number of eaten meals: 222
+	Vegetarian menu available: false
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 149
+	Net Weight: 13.637923372185023
+	Gross weight: 193.3778950560521
+	Cargo weight: 179.73997168386708
+	Max cargo weight: 75000.0
+	Available space: 99.76034670442151%
+	Electrical grid: falsePressure is: 45.24119122327402psi
+	Max pressure is: 500.0psi
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 144
+	Net Weight: 99.49833802036518
+	Gross weight: 117.21585129944675
+	Cargo weight: 17.717513279081576
+	Max cargo weight: 90000.0
+	Occupied space: 0.019686125865646196%
+	Electrical grid: falseVolume: 24.14976650597901m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 146
+	Net Weight: 46.749553498912334
+	Gross weight: 130.8423261429316
+	Cargo weight: 84.09277264401928
+	Max cargo weight: 90000.0
+	Occupied space: 0.09343641404891032%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 147
+	Net Weight: 37.00799747914123
+	Gross weight: 3057.672311859271
+	Cargo weight: 3020.66431438013
+	Max cargo weight: 90000.0
+	Occupied space: 3.356293682644589%
+	Electrical grid: falseSafety level: 6
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 15
+ Length of route: 833.3575039303145
+ Number of electric railcars: 3
+ Load of weight: 1697.4232312835902
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Pisa
+ Consists of:
+  Locomotive :
+	ID number: 16	Name: Cheap Trick
+	Number of Railcars: 9
+	Maximum weight: 3082.0532228326456
+	Maximum of Electric Railcars: 3
+	Speed at current moment: 52.57677425436846
+	Home railway station: Odessa
+	Starting railway station: Pisa
+	Destination railway station: Manchester
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 115
+	Net Weight: 8.117201026315923
+	Gross weight: 148.41004915203217
+	Cargo weight: 140.29284812571626
+	Max cargo weight: 75000.0
+	Available space: 99.81294286916571%
+	Electrical grid: falsePressure is: 7.441103437710039psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 116
+	Net Weight: 6.477122157481707
+	Gross weight: 153.55040618477275
+	Cargo weight: 147.07328402729104
+	Max cargo weight: 75000.0
+	Available space: 99.80390228796361%
+	Electrical grid: falsePressure is: 40.50136500177429psi
+	Max pressure is: 500.0psi
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 117
+	Net Weight: 44.290324676413995
+	Gross weight: 160.0
+	Number of meals: 228
+	Number of eaten meals: 10
+	Vegetarian menu available: false
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 119
+	Net Weight: 28.6206629581642
+	Gross weight: 240.38249343432676
+	Electrical grid: false
+	Numbers of bags: 33
+	Bag weight: 6.41702516594432
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 121
+	Net Weight: 75.9924927268307
+	Gross weight: 163.31316642689936
+	Cargo weight: 87.32067370006865
+	Max cargo weight: 75000.0
+	Available space: 99.88357243506657%
+	Electrical grid: true temperature: 13.472946907858354
+	min temperature: -75.0
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 122
+	Net Weight: 28.366629657774954
+	Gross weight: 194.0
+	Number of meals: 307
+	Number of eaten meals: 90
+	Vegetarian menu available: false
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 120
+	Net Weight: 72.68560874724537
+	Gross weight: 72.68560874724537
+	Number of seats: 35
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 118
+	Net Weight: 35.453914198554855
+	Gross weight: 1624.7376225363448
+	Cargo weight: 1589.28370833779
+	Max cargo weight: 90000.0
+	Occupied space: 1.7658707870419887%
+	Electrical grid: falseSafety level: 3
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 7
+ Length of route: 832.3393199343759
+ Number of electric railcars: 1
+ Load of weight: 449.3901562462402
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Brighton
+ Consists of:
+  Locomotive :
+	ID number: 8	Name: The Hand
+	Number of Railcars: 6
+	Maximum weight: 3792.0010289369475
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 164.9771942080917
+	Home railway station: Mérida
+	Starting railway station: Brighton
+	Destination railway station: Aberdeen
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 52
+	Net Weight: 38.26557984012712
+	gross weight: 114.07324276771261
+	electric grid: true
+	numbers of read letters: 39
+	numbers of unread letters: 384
+	num of complaints: 299
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 53
+	Net Weight: 79.63692786118362
+	gross weight: 59.873636690168475
+	electric grid: true
+	numbers of read letters: 378
+	numbers of unread letters: 226
+	num of complaints: 307
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 54
+	Net Weight: 22.56974257867511
+	Gross weight: 66.76349295844209
+	Cargo weight: 44.193750379766975
+	Max cargo weight: 75000.0
+	Available space: 99.94107499949365%
+	Electrical grid: falsePressure is: 3.2955369280892324psi
+	Max pressure is: 500.0psi
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 56
+	Net Weight: 63.137100307107964
+	Gross weight: 172.0
+	Number of meals: 221
+	Number of eaten meals: 36
+	Vegetarian menu available: false
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 57
+	Net Weight: 37.472224908793514
+	Gross weight: 328.8836887761939
+	Cargo weight: 291.41146386740036
+	Max cargo weight: 75000.0
+	Available space: 99.61145138151014%
+	Electrical grid: falseVolume: 413.54720656227545m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 50
+	Net Weight: 9.782116514546068
+	Gross weight: 56.18326944358822
+	Cargo weight: 46.401152929042155
+	Max cargo weight: 90000.0
+	Occupied space: 0.05155683658782462%
+	Electrical grid: falseVolume: 7.079455058296958m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 55
+	Net Weight: 53.48803314593722
+	Gross weight: 82.16951231630887
+	Cargo weight: 28.681479170371638
+	Max cargo weight: 90000.0
+	Occupied space: 0.03186831018930182%
+	Electrical grid: falseSafety level: 1
+	Max safety level: 7
+	Min safety level1
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 58
+	Net Weight: 55.2443764918706
+	Gross weight: 152.95149198243314
+	Cargo weight: 97.70711549056253
+	Max cargo weight: 90000.0
+	Occupied space: 0.1085634616561806%
+	Electrical grid: falseVolume: 3.8565211954711964m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 51
+	Net Weight: 0.5279635719763975
+	Gross weight: 158.08588250391
+	Cargo weight: 157.5579189319336
+	Max cargo weight: 90000.0
+	Occupied space: 0.17506435436881512%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min 
+, 
+TrainSet:
+ ID number: 3
+ Length of route: 792.9321311186437
+ Number of electric railcars: 2
+ Load of weight: 3057.5340644552466
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Kópavogur
+ Consists of:
+  Locomotive :
+	ID number: 4	Name: Sex Pistols
+	Number of Railcars: 8
+	Maximum weight: 4375.898085758889
+	Maximum of Electric Railcars: 5
+	Speed at current moment: 118.64669431947503
+	Home railway station: Sremski Karlovci
+	Starting railway station: Kópavogur
+	Destination railway station: Sremska Mitrovica
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 18
+	Net Weight: 16.08006392627528
+	Gross weight: 70.878362461193
+	Cargo weight: 54.798298534917734
+	Max cargo weight: 75000.0
+	Available space: 99.92693560195345%
+	Electrical grid: falsePressure is: 22.313678709034164psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 20
+	Net Weight: 57.488548131606485
+	Gross weight: 205.71370756135806
+	Cargo weight: 148.22515942975159
+	Max cargo weight: 75000.0
+	Available space: 99.80236645409366%
+	Electrical grid: falseVolume: 170.6535859090524m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 26
+	Net Weight: 46.13980153471755
+	Gross weight: 155.0
+	Number of meals: 281
+	Number of eaten meals: 269
+	Vegetarian menu available: true
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 27
+	Net Weight: 71.10137566086591
+	Gross weight: 102.27781133579467
+	Cargo weight: 31.17643567492876
+	Max cargo weight: 75000.0
+	Available space: 99.9584314191001%
+	Electrical grid: true temperature: -24.31971112366189
+	min temperature: -75.0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 24
+	Net Weight: 3.0933805444492646
+	Gross weight: 3.0933805444492646
+	Number of seats: 23
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 25
+	Net Weight: 20.085124167561574
+	Gross weight: 81.68980348163561
+	Cargo weight: 61.60467931407404
+	Max cargo weight: 90000.0
+	Occupied space: 0.06844964368230448%
+	Electrical grid: falseVolume: 45.75723422753187m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 19
+	Net Weight: 23.213989650810284
+	Gross weight: 104.3286263590754
+	Cargo weight: 81.11463670826512
+	Max cargo weight: 90000.0
+	Occupied space: 0.09012737412029459%
+	Electrical grid: falseVolume: 48.30420974645158m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 23
+	Net Weight: 79.0449449252002
+	Gross weight: 109.48808708300209
+	Cargo weight: 30.443142157801894
+	Max cargo weight: 90000.0
+	Occupied space: 0.033825713508668774%
+	Electrical grid: falseVolume: 33.76726158093806m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 22
+	Net Weight: 75.21365680601843
+	Gross weight: 169.27894269700533
+	Cargo weight: 94.06528589098691
+	Max cargo weight: 90000.0
+	Occupied space: 0.10451698432331878%
+	Electrical grid: falseNumber of extinguishers: 4
+	Max number of extinguishers: 5
+	To put out the fire: 3.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 21
+	Net Weight: 8.343662474736302
+	Gross weight: 2589.6552242900793
+	Cargo weight: 2581.311561815343
+	Max cargo weight: 90000.0
+	Occupied space: 2.868123957572603%
+	Electrical grid: falseSafety level: 5
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 14
+ Length of route: 779.9513167976925
+ Number of electric railcars: 0
+ Load of weight: 262.30943505544565
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Leskovac
+ Consists of:
+  Locomotive :
+	ID number: 15	Name: King Crimson
+	Number of Railcars: 7
+	Maximum weight: 4247.226028547254
+	Maximum of Electric Railcars: 8
+	Speed at current moment: 179.9132747541599
+	Home railway station: České Budějovice
+	Starting railway station: Leskovac
+	Destination railway station: Palanga
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 105
+	Net Weight: 65.89350817324784
+	Gross weight: 131.457068318062
+	Cargo weight: 65.56356014481416
+	Max cargo weight: 75000.0
+	Available space: 99.91258191980691%
+	Electrical grid: falseVolume: 397.9951359352001m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 107
+	Net Weight: 9.7208864104811
+	Gross weight: 213.93041260723385
+	Cargo weight: 204.20952619675276
+	Max cargo weight: 75000.0
+	Available space: 99.72772063173767%
+	Electrical grid: falseVolume: 165.85124142368096m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 109
+	Net Weight: 91.94857069461368
+	Gross weight: 129.30284803825168
+	Cargo weight: 37.354277343637996
+	Max cargo weight: 75000.0
+	Available space: 99.95019429687515%
+	Electrical grid: true temperature: 9.588121687466735
+	min temperature: -75.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 111
+	Net Weight: 66.72661373602541
+	gross weight: 130.15158764413835
+	electric grid: true
+	numbers of read letters: 36
+	numbers of unread letters: 103
+	num of complaints: 43
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 112
+	Net Weight: 38.67935647741352
+	Gross weight: 122.48878376437244
+	Cargo weight: 83.80942728695892
+	Max cargo weight: 75000.0
+	Available space: 99.88825409695072%
+	Electrical grid: true temperature: 14.822399405227841
+	min temperature: -75.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 113
+	Net Weight: 76.24265930499378
+	gross weight: 12.641818477946847
+	electric grid: true
+	numbers of read letters: 210
+	numbers of unread letters: 332
+	num of complaints: 16
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 114
+	Net Weight: 56.71149618912277
+	Gross weight: 149.75197518483654
+	Cargo weight: 93.04047899571377
+	Max cargo weight: 75000.0
+	Available space: 99.87594602800571%
+	Electrical grid: falseVolume: 417.9596976645477m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 108
+	Net Weight: 7.277078144009508
+	Gross weight: 37.986934028729436
+	Cargo weight: 30.70985588471993
+	Max cargo weight: 90000.0
+	Occupied space: 0.03412206209413325%
+	Electrical grid: falseVolume: 39.23186758779865m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 110
+	Net Weight: 46.4405492384459
+	Gross weight: 62.379885532829064
+	Cargo weight: 15.939336294383166
+	Max cargo weight: 90000.0
+	Occupied space: 0.01771037366042574%
+	Electrical grid: falseVolume: 2.7355059625351394m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 106
+	Net Weight: 90.69661290653283
+	Gross weight: 161.94261549388716
+	Cargo weight: 71.24600258735433
+	Max cargo weight: 90000.0
+	Occupied space: 0.07916222509706036%
+	Electrical grid: falseVolume: 24.828200231453728m^3
+	Max temperature: 99.0
+	Min temperature: -10.0 
+, 
+TrainSet:
+ ID number: 8
+ Length of route: 764.2766584782445
+ Number of electric railcars: 1
+ Load of weight: 3280.4973298825785
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Birmingham
+ Consists of:
+  Locomotive :
+	ID number: 9	Name: Vitamin C
+	Number of Railcars: 11
+	Maximum weight: 3459.17528470445
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 72.54126415280753
+	Home railway station: Budapest
+	Starting railway station: Birmingham
+	Destination railway station: Stepanakert
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 59
+	Net Weight: 60.96514090130364
+	Gross weight: 160.0
+	Number of meals: 39
+	Number of eaten meals: 208
+	Vegetarian menu available: false
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 60
+	Net Weight: 51.712897500138865
+	Gross weight: 80.7519876728567
+	Electrical grid: false
+	Numbers of bags: 8
+	Bag weight: 3.6298862715897293
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 63
+	Net Weight: 59.06729916721055
+	Gross weight: 120.2744538084134
+	Cargo weight: 61.20715464120284
+	Max cargo weight: 75000.0
+	Available space: 99.91839046047839%
+	Electrical grid: true temperature: -40.163013489332556
+	min temperature: -75.0
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 64
+	Net Weight: 24.84241772710104
+	Gross weight: 256.24802292398556
+	Cargo weight: 231.40560519688452
+	Max cargo weight: 75000.0
+	Available space: 99.69145919307083%
+	Electrical grid: falsePressure is: 47.59838274634962psi
+	Max pressure is: 500.0psi
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 65
+	Net Weight: 55.16995173411661
+	gross weight: 18.22416644287405
+	electric grid: true
+	numbers of read letters: 201
+	numbers of unread letters: 193
+	num of complaints: 42
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 61
+	Net Weight: 63.353989503974795
+	Gross weight: 243.79548035059136
+	Cargo weight: 180.44149084661657
+	Max cargo weight: 90000.0
+	Occupied space: 0.20049054538512953%
+	Electrical grid: falseNumber of extinguishers: 3
+	Max number of extinguishers: 5
+	To put out the fire: 5.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 62
+	Net Weight: 16.181472843421354
+	Gross weight: 3036.701849531987
+	Cargo weight: 3020.5203766885656
+	Max cargo weight: 90000.0
+	Occupied space: 3.356133751876184%
+	Electrical grid: falseSafety level: 6
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 11
+ Length of route: 749.1204110496419
+ Number of electric railcars: 2
+ Load of weight: 468.63179222670493
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Karviná
+ Consists of:
+  Locomotive :
+	ID number: 12	Name: Sun
+	Number of Railcars: 10
+	Maximum weight: 3961.7577619521385
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 100.45080936964739
+	Home railway station: York
+	Starting railway station: Karviná
+	Destination railway station: Bergen
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 80
+	Net Weight: 61.75026069868837
+	Gross weight: 231.27420182208647
+	Cargo weight: 169.5239411233981
+	Max cargo weight: 75000.0
+	Available space: 99.77396807850214%
+	Electrical grid: falsePressure is: 48.459178569119psi
+	Max pressure is: 500.0psi
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 81
+	Net Weight: 52.318663705999825
+	Gross weight: 53.40504139052923
+	Electrical grid: false
+	Numbers of bags: 2
+	Bag weight: 0.5431888422647013
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 82
+	Net Weight: 1.194728407904344
+	Gross weight: 26.55365863625998
+	Cargo weight: 25.358930228355636
+	Max cargo weight: 75000.0
+	Available space: 99.96618809302886%
+	Electrical grid: falseVolume: 499.4052683168532m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 83
+	Net Weight: 85.94603635614547
+	Gross weight: 105.88540536974324
+	Electrical grid: false
+	Numbers of bags: 8
+	Bag weight: 2.492421126699721
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 79
+	Net Weight: 22.991241045908296
+	Gross weight: 22.991241045908296
+	Number of seats: 17
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 85
+	Net Weight: 75.3579225885455
+	Gross weight: 75.3579225885455
+	Number of seats: 33
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 84
+	Net Weight: 48.17857897879415
+	Gross weight: 143.17831065078997
+	Cargo weight: 94.99973167199582
+	Max cargo weight: 90000.0
+	Occupied space: 0.10555525741332868%
+	Electrical grid: falseVolume: 15.874240839052888m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 86
+	Net Weight: 73.14195322124337
+	Gross weight: 227.10431794146118
+	Cargo weight: 153.9623647202178
+	Max cargo weight: 90000.0
+	Occupied space: 0.17106929413357536%
+	Electrical grid: falseNumber of extinguishers: 3
+	Max number of extinguishers: 5
+	To put out the fire: 5.0 min 
+, 
+TrainSet:
+ ID number: 1
+ Length of route: 745.4976769200634
+ Number of electric railcars: 1
+ Load of weight: 146.12884435037353
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Mérida
+ Consists of:
+  Locomotive :
+	ID number: 2	Name: Doobie Wah
+	Number of Railcars: 12
+	Maximum weight: 2850.111383852276
+	Maximum of Electric Railcars: 7
+	Speed at current moment: 95.63037753810164
+	Home railway station: Volos
+	Starting railway station: Mérida
+	Destination railway station: Budapest
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 6
+	Net Weight: 93.45561942130024
+	gross weight: 76.88342473004839
+	electric grid: true
+	numbers of read letters: 33
+	numbers of unread letters: 62
+	num of complaints: 386
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 9
+	Net Weight: 39.03324970612094
+	Gross weight: 65.10297827422562
+	Electrical grid: false
+	Numbers of bags: 7
+	Bag weight: 3.724246938300668
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 11
+	Net Weight: 9.273227824756091
+	Gross weight: 194.07267999766168
+	Cargo weight: 184.7994521729056
+	Max cargo weight: 75000.0
+	Available space: 99.75360073043612%
+	Electrical grid: falseVolume: 165.93334506215473m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 8
+	Net Weight: 2.147211910205171
+	Gross weight: 2.147211910205171
+	Number of seats: 37
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 10
+	Net Weight: 23.74105748547709
+	Gross weight: 61.802048593097766
+	Cargo weight: 38.06099110762068
+	Max cargo weight: 90000.0
+	Occupied space: 0.042289990119578534%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 7
+	Net Weight: 3.1345546805294666
+	Gross weight: 82.17958384707057
+	Cargo weight: 79.04502916654111
+	Max cargo weight: 90000.0
+	Occupied space: 0.08782781018504568%
+	Electrical grid: falseVolume: 25.815328284921563m^3
+	Max temperature: 99.0
+	Min temperature: -10.0 
+, 
+TrainSet:
+ ID number: 10
+ Length of route: 743.5025693278786
+ Number of electric railcars: 2
+ Load of weight: 2499.744724093035
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Plymouth
+ Consists of:
+  Locomotive :
+	ID number: 11	Name: Ball Breaker
+	Number of Railcars: 11
+	Maximum weight: 2666.8917930628004
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 124.24521393608502
+	Home railway station: Basel
+	Starting railway station: Plymouth
+	Destination railway station: Ulm
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 70
+	Net Weight: 33.16481966276884
+	gross weight: 59.911605162725415
+	electric grid: true
+	numbers of read letters: 60
+	numbers of unread letters: 195
+	num of complaints: 197
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 74
+	Net Weight: 14.17493879349504
+	Gross weight: 44.334500667245834
+	Cargo weight: 30.159561873750796
+	Max cargo weight: 75000.0
+	Available space: 99.95978725083499%
+	Electrical grid: true temperature: 34.180341050172046
+	min temperature: -75.0
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 75
+	Net Weight: 51.15022600310055
+	Gross weight: 211.13261982639375
+	Cargo weight: 159.9823938232932
+	Max cargo weight: 75000.0
+	Available space: 99.78669014156894%
+	Electrical grid: falsePressure is: 45.738696140564psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 77
+	Net Weight: 85.0481535080172
+	Gross weight: 173.54137127772898
+	Cargo weight: 88.49321776971179
+	Max cargo weight: 75000.0
+	Available space: 99.88200904297372%
+	Electrical grid: falsePressure is: 48.66649690798964psi
+	Max pressure is: 500.0psi
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 78
+	Net Weight: 8.665237695460437
+	Gross weight: 182.0
+	Number of meals: 193
+	Number of eaten meals: 100
+	Vegetarian menu available: false
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 76
+	Net Weight: 60.813518393831814
+	Gross weight: 60.813518393831814
+	Number of seats: 14
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 71
+	Net Weight: 70.57304192235227
+	Gross weight: 318.81091732049214
+	Cargo weight: 248.23787539813986
+	Max cargo weight: 90000.0
+	Occupied space: 0.27581986155348875%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 73
+	Net Weight: 42.66819655537092
+	Gross weight: 1048.5052079184075
+	Cargo weight: 1005.8370113630365
+	Max cargo weight: 90000.0
+	Occupied space: 1.1175966792922627%
+	Electrical grid: falseSafety level: 2
+	Max safety level: 7
+	Min safety level1
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 72
+	Net Weight: 6.597951108013678
+	Gross weight: 1071.615080460304
+	Cargo weight: 1065.0171293522903
+	Max cargo weight: 90000.0
+	Occupied space: 1.1833523659469893%
+	Electrical grid: falseSafety level: 2
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 5
+ Length of route: 730.6086576129185
+ Number of electric railcars: 1
+ Load of weight: 2166.927765598525
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: London
+ Consists of:
+  Locomotive :
+	ID number: 6	Name: Judgement
+	Number of Railcars: 8
+	Maximum weight: 2779.026058152619
+	Maximum of Electric Railcars: 4
+	Speed at current moment: 90.60384558625589
+	Home railway station: Split
+	Starting railway station: London
+	Destination railway station: Palanga
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 39
+	Net Weight: 84.58661603736641
+	Gross weight: 190.0
+	Number of meals: 116
+	Number of eaten meals: 177
+	Vegetarian menu available: false
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 40
+	Net Weight: 39.62964715790649
+	Gross weight: 42.169298168714235
+	Electrical grid: false
+	Numbers of bags: 1
+	Bag weight: 2.539651010807742
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 41
+	Net Weight: 19.52673333277055
+	Gross weight: 36.854375835587035
+	Cargo weight: 17.327642502816488
+	Max cargo weight: 75000.0
+	Available space: 99.97689647666292%
+	Electrical grid: true temperature: -23.014605486723255
+	min temperature: -75.0
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 42
+	Net Weight: 68.59817868215046
+	gross weight: 46.26151793269136
+	electric grid: true
+	numbers of read letters: 123
+	numbers of unread letters: 316
+	num of complaints: 140
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 44
+	Net Weight: 82.55718148831471
+	Gross weight: 296.115061660453
+	Cargo weight: 213.5578801721383
+	Max cargo weight: 75000.0
+	Available space: 99.71525615977048%
+	Electrical grid: falseVolume: 474.9496598676958m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 38
+	Net Weight: 50.75270124473871
+	Gross weight: 227.5963647006453
+	Cargo weight: 176.84366345590658
+	Max cargo weight: 90000.0
+	Occupied space: 0.19649295939545175%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 45
+	Net Weight: 83.86916050580442
+	Gross weight: 230.837630346893
+	Cargo weight: 146.9684698410886
+	Max cargo weight: 90000.0
+	Occupied space: 0.16329829982343178%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 36
+	Net Weight: 2.684399598579268
+	Gross weight: 293.52611885997345
+	Cargo weight: 290.8417192613942
+	Max cargo weight: 90000.0
+	Occupied space: 0.32315746584599353%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 43
+	Net Weight: 94.71562493098983
+	Gross weight: 302.8965239169748
+	Cargo weight: 208.18089898598495
+	Max cargo weight: 90000.0
+	Occupied space: 0.23131210998442775%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 37
+	Net Weight: 29.41514421001856
+	Gross weight: 1112.0711277740386
+	Cargo weight: 1082.65598356402
+	Max cargo weight: 90000.0
+	Occupied space: 1.2029510928489113%
+	Electrical grid: falseSafety level: 2
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 12
+ Length of route: 704.4092830998261
+ Number of electric railcars: 3
+ Load of weight: 3087.157091596706
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Sosnowiec
+ Consists of:
+  Locomotive :
+	ID number: 13	Name: The World
+	Number of Railcars: 7
+	Maximum weight: 4403.265119740487
+	Maximum of Electric Railcars: 3
+	Speed at current moment: 102.18494735962139
+	Home railway station: Sremska Mitrovica
+	Starting railway station: Sosnowiec
+	Destination railway station: Kočani
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 88
+	Net Weight: 86.90761854487315
+	Gross weight: 165.77329272229102
+	Cargo weight: 78.86567417741787
+	Max cargo weight: 75000.0
+	Available space: 99.89484576776344%
+	Electrical grid: true temperature: -55.90022174004875
+	min temperature: -75.0
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 93
+	Net Weight: 81.41501732776413
+	Gross weight: 262.42241775207253
+	Cargo weight: 181.0074004243084
+	Max cargo weight: 75000.0
+	Available space: 99.75865679943425%
+	Electrical grid: falsePressure is: 36.083878479697646psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 94
+	Net Weight: 89.8402342620501
+	Gross weight: 179.47480155776879
+	Cargo weight: 89.63456729571868
+	Max cargo weight: 75000.0
+	Available space: 99.88048724360571%
+	Electrical grid: falsePressure is: 35.61911364423708psi
+	Max pressure is: 500.0psi
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 95
+	Net Weight: 73.0164189292943
+	Gross weight: 174.0
+	Number of meals: 77
+	Number of eaten meals: 287
+	Vegetarian menu available: true
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 91
+	Net Weight: 55.73364606461877
+	Gross weight: 55.73364606461877
+	Number of seats: 23
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 87
+	Net Weight: 62.70878424934894
+	Gross weight: 62.70878424934894
+	Number of seats: 5
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 90
+	Net Weight: 60.04478964670319
+	Gross weight: 150.5738621775552
+	Cargo weight: 90.52907253085203
+	Max cargo weight: 90000.0
+	Occupied space: 0.10058785836761336%
+	Electrical grid: falseNumber of extinguishers: 3
+	Max number of extinguishers: 5
+	To put out the fire: 5.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 89
+	Net Weight: 94.23734643131851
+	Gross weight: 178.35250872437393
+	Cargo weight: 84.11516229305543
+	Max cargo weight: 90000.0
+	Occupied space: 0.09346129143672827%
+	Electrical grid: falseSafety level: 1
+	Max safety level: 7
+	Min safety level1
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 92
+	Net Weight: 91.36174663602986
+	Gross weight: 2639.788290380809
+	Cargo weight: 2548.4265437447793
+	Max cargo weight: 90000.0
+	Occupied space: 2.83158504860531%
+	Electrical grid: falseSafety level: 5
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 6
+ Length of route: 692.344682967058
+ Number of electric railcars: 1
+ Load of weight: 214.66179441365216
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Mingachevir
+ Consists of:
+  Locomotive :
+	ID number: 7	Name: Born This Way
+	Number of Railcars: 12
+	Maximum weight: 1951.334360245738
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 74.42518798572519
+	Home railway station: Lucca
+	Starting railway station: Mingachevir
+	Destination railway station: Alkmaar
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 46
+	Net Weight: 21.663980376314264
+	Gross weight: 172.0
+	Number of meals: 152
+	Number of eaten meals: 46
+	Vegetarian menu available: false
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 48
+	Net Weight: 84.06890276705393
+	Gross weight: 152.79181595601733
+	Cargo weight: 68.72291318896342
+	Max cargo weight: 75000.0
+	Available space: 99.90836944908138%
+	Electrical grid: falseVolume: 226.26887813457196m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 47
+	Net Weight: 15.598790487890014
+	Gross weight: 214.66179441365216
+	Cargo weight: 199.06300392576213
+	Max cargo weight: 90000.0
+	Occupied space: 0.22118111547306904%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min 
+, 
+TrainSet:
+ ID number: 22
+ Length of route: 647.216074827202
+ Number of electric railcars: 1
+ Load of weight: 3593.2036428020238
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Armagh
+ Consists of:
+  Locomotive :
+	ID number: 23	Name: Death 13
+	Number of Railcars: 11
+	Maximum weight: 4406.437972496926
+	Maximum of Electric Railcars: 7
+	Speed at current moment: 50.55069822914544
+	Home railway station: Frankfurt
+	Starting railway station: Armagh
+	Destination railway station: Sumqayit
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 162
+	Net Weight: 47.98311234798543
+	Gross weight: 138.15208599946632
+	Cargo weight: 90.16897365148088
+	Max cargo weight: 75000.0
+	Available space: 99.87977470179803%
+	Electrical grid: falseVolume: 208.74436913157717m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 163
+	Net Weight: 56.5957311302832
+	Gross weight: 60.72817532188562
+	Electrical grid: false
+	Numbers of bags: 8
+	Bag weight: 0.5165555239503028
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 166
+	Net Weight: 46.248756650514146
+	Gross weight: 139.89361531540072
+	Cargo weight: 93.64485866488657
+	Max cargo weight: 75000.0
+	Available space: 99.87514018844682%
+	Electrical grid: falsePressure is: 4.825716868272028psi
+	Max pressure is: 500.0psi
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 167
+	Net Weight: 89.24381557411141
+	Gross weight: 203.18896399103488
+	Electrical grid: false
+	Numbers of bags: 15
+	Bag weight: 7.5963432277948995
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 168
+	Net Weight: 27.20725066328412
+	Gross weight: 153.0
+	Number of meals: 311
+	Number of eaten meals: 272
+	Vegetarian menu available: false
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 169
+	Net Weight: 37.11069120303853
+	Gross weight: 45.20397890340237
+	Cargo weight: 8.093287700363849
+	Max cargo weight: 90000.0
+	Occupied space: 0.008992541889293165%
+	Electrical grid: falseVolume: 7.128516227652498m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 171
+	Net Weight: 16.64237096031621
+	Gross weight: 89.1420984887618
+	Cargo weight: 72.49972752844559
+	Max cargo weight: 90000.0
+	Occupied space: 0.08055525280938398%
+	Electrical grid: falseNumber of extinguishers: 3
+	Max number of extinguishers: 5
+	To put out the fire: 5.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 164
+	Net Weight: 95.57459211488313
+	Gross weight: 170.42762126139638
+	Cargo weight: 74.85302914651324
+	Max cargo weight: 90000.0
+	Occupied space: 0.0831700323850147%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 165
+	Net Weight: 10.320932161726837
+	Gross weight: 181.0804872270476
+	Cargo weight: 170.75955506532077
+	Max cargo weight: 90000.0
+	Occupied space: 0.18973283896146753%
+	Electrical grid: falseNumber of extinguishers: 1
+	Max number of extinguishers: 5
+	To put out the fire: 15.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 170
+	Net Weight: 20.02080837900191
+	Gross weight: 3107.3494569214154
+	Cargo weight: 3087.3286485424132
+	Max cargo weight: 90000.0
+	Occupied space: 3.430365165047126%
+	Electrical grid: falseSafety level: 6
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 2
+ Length of route: 635.338525392344
+ Number of electric railcars: 0
+ Load of weight: 93.49952469682512
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Birmingham
+ Consists of:
+  Locomotive :
+	ID number: 3	Name: Doggy Style
+	Number of Railcars: 13
+	Maximum weight: 3035.416544319986
+	Maximum of Electric Railcars: 4
+	Speed at current moment: 95.84307003576343
+	Home railway station: Southampton
+	Starting railway station: Birmingham
+	Destination railway station: Mérida
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 12
+	Net Weight: 96.9173931743629
+	Gross weight: 272.2884580144495
+	Electrical grid: false
+	Numbers of bags: 19
+	Bag weight: 9.230056044215084
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 13
+	Net Weight: 11.84581794311642
+	gross weight: 125.97249610523922
+	electric grid: true
+	numbers of read letters: 285
+	numbers of unread letters: 144
+	num of complaints: 2
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 15
+	Net Weight: 40.15029687537057
+	Gross weight: 54.5342848887141
+	Cargo weight: 14.38398801334353
+	Max cargo weight: 75000.0
+	Available space: 99.98082134931555%
+	Electrical grid: true temperature: -62.9409636031187
+	min temperature: -75.0
+  
+	Refrigerated Railcar
+	Shipper:Meat and Fruit co.
+	Security information: Unsafe
+	ID: 17
+	Net Weight: 90.86936005972528
+	Gross weight: 116.00655490850338
+	Cargo weight: 25.137194848778087
+	Max cargo weight: 75000.0
+	Available space: 99.96648374020162%
+	Electrical grid: true temperature: 5.695556924960059
+	min temperature: -75.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 16
+	Net Weight: 26.39496408768016
+	Gross weight: 40.962271003694426
+	Cargo weight: 14.567306916014267
+	Max cargo weight: 90000.0
+	Occupied space: 0.016185896573349186%
+	Electrical grid: falseVolume: 29.95150258048139m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 14
+	Net Weight: 49.525549657906595
+	Gross weight: 52.5372536931307
+	Cargo weight: 3.0117040352241053
+	Max cargo weight: 90000.0
+	Occupied space: 0.0033463378169156727%
+	Electrical grid: falseVolume: 26.96788602556312m^3
+	Max temperature: 99.0
+	Min temperature: -10.0 
+, 
+TrainSet:
+ ID number: 16
+ Length of route: 621.7059301001243
+ Number of electric railcars: 2
+ Load of weight: 2792.716312184111
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Constance
+ Consists of:
+  Locomotive :
+	ID number: 17	Name: Bad Company
+	Number of Railcars: 13
+	Maximum weight: 4352.7994529175485
+	Maximum of Electric Railcars: 4
+	Speed at current moment: 163.77910405532162
+	Home railway station: Kutaisi
+	Starting railway station: Constance
+	Destination railway station: Derby
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 123
+	Net Weight: 85.3252636314689
+	Gross weight: 289.6390335093604
+	Cargo weight: 204.31376987789147
+	Max cargo weight: 75000.0
+	Available space: 99.72758164016281%
+	Electrical grid: falsePressure is: 28.789882186030496psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 125
+	Net Weight: 25.05918008158716
+	Gross weight: 80.61846124461871
+	Cargo weight: 55.55928116303156
+	Max cargo weight: 75000.0
+	Available space: 99.9259209584493%
+	Electrical grid: falseVolume: 395.53223625446253m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 128
+	Net Weight: 73.58315474704018
+	Gross weight: 153.43696588883847
+	Cargo weight: 79.85381114179827
+	Max cargo weight: 75000.0
+	Available space: 99.89352825181093%
+	Electrical grid: falseVolume: 168.17773928384966m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 124
+	Net Weight: 18.130686022195352
+	Gross weight: 18.130686022195352
+	Number of seats: 18
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 126
+	Net Weight: 26.502665742103627
+	Gross weight: 26.502665742103627
+	Number of seats: 3
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 129
+	Net Weight: 51.53225122016899
+	Gross weight: 135.10764209121587
+	Cargo weight: 83.57539087104688
+	Max cargo weight: 90000.0
+	Occupied space: 0.0928615454122743%
+	Electrical grid: falseVolume: 39.45780567807951m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 127
+	Net Weight: 21.860170098339072
+	Gross weight: 2612.975318328596
+	Cargo weight: 2591.115148230257
+	Max cargo weight: 90000.0
+	Occupied space: 2.879016831366952%
+	Electrical grid: falseSafety level: 5
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 21
+ Length of route: 545.2619159797486
+ Number of electric railcars: 2
+ Load of weight: 552.0213860334699
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Plymouth
+ Consists of:
+  Locomotive :
+	ID number: 22	Name: Tusk
+	Number of Railcars: 13
+	Maximum weight: 4086.247768883207
+	Maximum of Electric Railcars: 6
+	Speed at current moment: 88.64706627727992
+	Home railway station: Plovdiv
+	Starting railway station: Plymouth
+	Destination railway station: Oslo
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 159
+	Net Weight: 20.47537296699524
+	Gross weight: 184.0
+	Number of meals: 250
+	Number of eaten meals: 70
+	Vegetarian menu available: true
+  
+	Railroad Post Office
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 161
+	Net Weight: 47.57457173331798
+	gross weight: 83.55618455635901
+	electric grid: true
+	numbers of read letters: 118
+	numbers of unread letters: 158
+	num of complaints: 75
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 156
+	Net Weight: 89.42545637718386
+	Gross weight: 89.42545637718386
+	Number of seats: 10
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 158
+	Net Weight: 92.44125926396943
+	Gross weight: 137.512627538082
+	Cargo weight: 45.07136827411258
+	Max cargo weight: 90000.0
+	Occupied space: 0.05007929808234732%
+	Electrical grid: falseVolume: 0.6135121910763264m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 160
+	Net Weight: 63.05652271993991
+	Gross weight: 140.83180170017977
+	Cargo weight: 77.77527898023986
+	Max cargo weight: 90000.0
+	Occupied space: 0.08641697664471096%
+	Electrical grid: falseVolume: 43.87949984263558m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 157
+	Net Weight: 86.9652785799873
+	Gross weight: 184.2515004180242
+	Cargo weight: 97.28622183803691
+	Max cargo weight: 90000.0
+	Occupied space: 0.10809580204226323%
+	Electrical grid: falseVolume: 36.71133229853319m^3
+	Max temperature: 99.0
+	Min temperature: -10.0 
+, 
+TrainSet:
+ ID number: 17
+ Length of route: 484.39136639830963
+ Number of electric railcars: 0
+ Load of weight: 272.6113342511608
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Bor
+ Consists of:
+  Locomotive :
+	ID number: 18	Name: Hanged Man
+	Number of Railcars: 8
+	Maximum weight: 4116.218595328626
+	Maximum of Electric Railcars: 4
+	Speed at current moment: 130.54807670780616
+	Home railway station: Teplice
+	Starting railway station: Bor
+	Destination railway station: Sosnowiec
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 130
+	Net Weight: 85.28430773687762
+	Gross weight: 175.44088292995337
+	Cargo weight: 90.15657519307574
+	Max cargo weight: 75000.0
+	Available space: 99.8797912330759%
+	Electrical grid: falsePressure is: 6.580915362405692psi
+	Max pressure is: 500.0psi
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 131
+	Net Weight: 48.46397080120162
+	Gross weight: 297.0452567514591
+	Cargo weight: 248.58128595025744
+	Max cargo weight: 75000.0
+	Available space: 99.66855828539966%
+	Electrical grid: falseVolume: 90.1716291722548m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 132
+	Net Weight: 88.96488821814835
+	Gross weight: 237.22363380322156
+	Electrical grid: false
+	Numbers of bags: 22
+	Bag weight: 6.7390338902305995
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 135
+	Net Weight: 1.4586278202021186
+	Gross weight: 292.5793249208162
+	Cargo weight: 291.12069710061405
+	Max cargo weight: 75000.0
+	Available space: 99.61183907053251%
+	Electrical grid: falsePressure is: 4.46484061435965psi
+	Max pressure is: 500.0psi
+  
+	Explosives Railcar
+	Shipper:Reporatte
+	Security information: Dangerous
+	ID: 133
+	Net Weight: 31.29548400501814
+	Gross weight: 84.73417365389415
+	Cargo weight: 53.438689648876
+	Max cargo weight: 90000.0
+	Occupied space: 0.05937632183208444%
+	Electrical grid: falseNumber of extinguishers: 2
+	Max number of extinguishers: 5
+	To put out the fire: 7.0 min
+  
+	Railcar with Toxic Materials
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 134
+	Net Weight: 89.19404134699433
+	Gross weight: 187.87716059726668
+	Cargo weight: 98.68311925027236
+	Max cargo weight: 90000.0
+	Occupied space: 0.1096479102780804%
+	Electrical grid: falseSafety level: 1
+	Max safety level: 7
+	Min safety level1 
+, 
+TrainSet:
+ ID number: 24
+ Length of route: 652.1525416666559
+ Number of electric railcars: 3
+ Load of weight: 184.77343199995997
+ Number of Passengers: 0
+ Part of route completed: 0.0%
+ Train is currently staying on station: Mannheim
+ Consists of:
+  Locomotive :
+	ID number: 25	Name: Star Platinum
+	Number of Railcars: 8
+	Maximum weight: 1893.1385738271395
+	Maximum of Electric Railcars: 7
+	Speed at current moment: 67.97613411350554
+	Home railway station: Prilep
+	Starting railway station: Mannheim
+	Destination railway station: Keflavík
+  
+	Railcar with Liquids
+	Shipper:JS Co.
+	Security information: Safe
+	ID: 182
+	Net Weight: 89.43568550599575
+	Gross weight: 204.68106877128344
+	Cargo weight: 115.24538326528767
+	Max cargo weight: 75000.0
+	Available space: 99.84633948897962%
+	Electrical grid: falseVolume: 395.3056304708963m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	Railcar with Gases
+	Shipper:Reporatte
+	Security information: Not safe
+	ID: 184
+	Net Weight: 73.83244818434395
+	Gross weight: 183.0960909088758
+	Cargo weight: 109.26364272453183
+	Max cargo weight: 75000.0
+	Available space: 99.85431514303396%
+	Electrical grid: falsePressure is: 14.79403261474292psi
+	Max pressure is: 500.0psi
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 185
+	Net Weight: 72.04825479706199
+	Gross weight: 302.7520735158292
+	Electrical grid: false
+	Numbers of bags: 43
+	Bag weight: 5.365205086482958
+  
+	Railroad Restaurant
+	Shipper:Malta
+	Security information: Safe
+	ID: 186
+	Net Weight: 23.391706048923865
+	Gross weight: 196.0
+	Number of meals: 275
+	Number of eaten meals: 273
+	Vegetarian menu available: false
+  
+	Baggage Mail Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 188
+	Net Weight: 74.82287150120537
+	Gross weight: 88.92879957240874
+	Electrical grid: false
+	Numbers of bags: 25
+	Bag weight: 0.5642371228481347
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 189
+	Net Weight: 17.752331017408483
+	Gross weight: 17.752331017408483
+	Number of seats: 39
+	Toilet availability: true
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	Passenger Railcar
+	Shipper:Malta
+	Security information: Safe
+	ID: 187
+	Net Weight: 19.499573417251735
+	Gross weight: 19.499573417251735
+	Number of seats: 32
+	Toilet availability: false
+	Electrical gird required: true
+	Number of passengers: 0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 181
+	Net Weight: 5.255243953606737
+	Gross weight: 54.05060589855574
+	Cargo weight: 48.795361944949
+	Max cargo weight: 90000.0
+	Occupied space: 0.054217068827721114%
+	Electrical grid: falseVolume: 43.50137213041825m^3
+	Max temperature: 99.0
+	Min temperature: -10.0
+  
+	RailCar with Toxic Liquids
+	Shipper:Toxins Co.
+	Security information: Super Dangerous
+	ID: 183
+	Net Weight: 35.03023753521845
+	Gross weight: 93.470921666744
+	Cargo weight: 58.440684131525565
+	Max cargo weight: 90000.0
+	Occupied space: 0.06493409347947285%
+	Electrical grid: falseVolume: 9.407415507935418m^3
+	Max temperature: 99.0
+	Min temperature: -10.0 
+]
+
