@@ -40,4 +40,4 @@ This Java application simulates and manages railway infrastructure, including ra
 For support or queries, please contact me at:
 
 - **Email**: [dgutnik1@gmail.com](mailto:dgutnik1@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dmytro-hutnyk-a68600254/)
+- **LinkedIn**: [Dmytro Hutnyk](https://www.linkedin.com/in/dmytro-hutnyk-a68600254/)
