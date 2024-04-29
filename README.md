@@ -34,3 +34,10 @@ This Java application simulates and manages railway infrastructure, including ra
 ### Viewing Reports and Logs
 - Access detailed reports through the console by providing the unique identifier of a trainset.
 - Review the `AppState.txt` file for a historical log of all train operations sorted by specified criteria.
+
+## Contact
+
+For support or queries, please contact me at:
+
+- **Email**: [dgutnik1@gmail.com](mailto:dgutnik1@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dmytro-hutnyk-a68600254/)
