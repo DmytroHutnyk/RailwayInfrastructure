@@ -14,27 +14,25 @@ public class Main {
         try {
             appIsAlive = true;
             RailMap railMap = RailMap.createMap();
-            // -----------------------------------------------file readers  DONE
             BufferedReader br = new BufferedReader( new InputStreamReader( new FileInputStream("src/data/cities.txt")));
-            Set<String> cities =  new HashSet<>();          // hashSet not to have duplicates
+            Set<String> cities =  new HashSet<>();
             String line;
             while ((line = br.readLine()) != null) {
-                cities.add(line.replace("    ", ""));       // replace four spaces for nothing
+                cities.add(line.replace("    ", ""));
             }
             ArrayList<String> citiesList = new ArrayList<>(cities);
-            //arrayList of stations
             List<RailwayStation> stations = new ArrayList<>();
-            //add stations to the list
+
             for (int i = 0; i < 100; i++) {
                 RailwayStation s = new RailwayStation(citiesList.remove((int) (Math.random() * citiesList.size())));
                 stations.add(s);
             }
-            // add stations to the map
+
             for (RailwayStation s: stations) {
                 railMap.addStation(s);
             }
             boolean key = true;
-            // generate connections
+
             for (int j = 0; j < stations.size()-1; j++) {
                 RailwayStation s = stations.get(j);
                 railMap.addConnection(s.getName(), stations.get(j+1).getName(), Math.random()*400+200);
@@ -52,18 +50,18 @@ public class Main {
 
             br = new BufferedReader( new InputStreamReader( new FileInputStream("src/data/trains.txt")));
             Set<String> names =  new HashSet<>();
-            //read names for trains
+
             while ((line = br.readLine()) != null) {
                 names.add(line.replace("    ", ""));
             }
             ArrayList<String> trainsNames = new ArrayList<>(names);
             List<Locomotive> locomotives = new ArrayList<>();
-            for (int i = 0; i < 25; i++) {// -----------------------------stream
+            for (int i = 0; i < 25; i++) {
                 RailwayStation start = railMap.getMap().keySet().stream().toList().get((int) (Math.random() * 100));
                 RailwayStation end = railMap.getMap().keySet().stream().toList().get((int) (Math.random() * 100));
                 while (start.getName().equals(end.getName()))
                     end = railMap.getMap().keySet().stream().toList().get((int) (Math.random() * 100));
-                //create new locomotives
+
                 locomotives.add(new Locomotive((int)(Math.random()*11)+5,
                                             Math.random()*3001+1500,
                                             (int)(Math.random()*6)+3,
@@ -75,7 +73,6 @@ public class Main {
                         ));
             }
             br.close();
-            // create and add railCars to each locomotive
             for (Locomotive l :locomotives) {
                 TrainSet t = new TrainSet(l);
                 int max = (int)(Math.random() * 6 + 5);
@@ -140,28 +137,28 @@ public class Main {
                 }
             });
             logger.start();
-            // start all trainSets
+
             ArrayList<Thread> threads = new ArrayList<>();
             for (TrainSet t : TrainSet.getAllTrainSets()) {
                 Thread s = new Thread(t);
                 threads.add(s);
                 s.start();
             }
-            //Initialization end
+
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
 
 
 
-        // menu for the user
+
         railMap = RailMap.createMap();
         Scanner scanner = new Scanner(System.in);
         System.out.println("To quit from application enter quit");
         String line;
         while ( !( line  = scanner.nextLine() ).equals( "quit")) {
             try {
-                // to split words by space
+
                 String[] params = line.split(" ");
                 switch (params[0]) {
                     case "add":
@@ -189,7 +186,7 @@ public class Main {
                                 railMap.addStation( new RailwayStation(params[2]));
                                 System.out.println("added");
                                 break;
-                            case "railcar": // -----------------------------stream().filter
+                            case "railcar":
                                 TrainSet t = TrainSet.getAllTrainSets().stream().filter(t1 -> t1.getId() == Integer.parseInt(params[2])).toList().get(0);
                                 if( t == null ) {
                                     System.out.println("There is no such trainset");

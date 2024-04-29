@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Locomotive{
-    private static ArrayList<Locomotive> locomotives = new ArrayList<>();  // list of all locomotives
+    private static ArrayList<Locomotive> locomotives = new ArrayList<>();
     private boolean isGoingBrrrrrr = false;
     private int numOfRailCars;
     private double maxWeight;
@@ -13,11 +13,11 @@ public class Locomotive{
     private RailwayStation homeRalStation;
     private RailwayStation startingRalStation;
     private RailwayStation destinationRalStation;
-    private volatile RailwayStation station;                                 // current station
-    private TrainSet itsTrainset = null;            // this variable has TrainSet to which belongs this Locomotive
+    private volatile RailwayStation station;
+    private TrainSet itsTrainset = null;
     private volatile double fullConnectionsDistancesGone = 0;
-    private volatile double gonePartOfCurrentConnection = 0;  // completed part of current connection
-    private volatile double  percentageOfCurrentConnection = 0;  // percentage completed part of current connection
+    private volatile double gonePartOfCurrentConnection = 0;
+    private volatile double  percentageOfCurrentConnection = 0;
 
 
 

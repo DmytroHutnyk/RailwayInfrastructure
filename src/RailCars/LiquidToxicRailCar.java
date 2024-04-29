@@ -4,7 +4,7 @@ import RailCars.HeavyFreightCar;
 
 public class LiquidToxicRailCar extends HeavyFreightCar {
 
-    private double volume;      // 'm' to the 3rd power
+    private double volume;      // m^3
     private double temperature;
     private final double maxTemperature = 99;
     private final double minTemperature = -10;

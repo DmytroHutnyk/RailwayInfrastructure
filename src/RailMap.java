@@ -9,7 +9,7 @@ public class RailMap {
     public Map<RailwayStation, ArrayList<Connection>> getMap(){
         return map;
     }
-    // singleton class to have only one map
+
     public static RailMap createMap(){
         if( ourMap == null )
             ourMap = new RailMap();
@@ -35,24 +35,22 @@ public class RailMap {
             }
         }
 
-        // check if both stations were found
         if (station1 == null || station2 == null) {
             throw new IllegalArgumentException("One or both stations not found in the map");
         }
 
         Connection connection = new Connection(station1, station2, distance);
 
-        //fist station
+
         ArrayList<Connection> connections1 = map.get(station1);
         connections1.add(connection);
         map.put(station1, connections1);
 
-        // second station
+
         ArrayList<Connection> connections2 = map.get(station2);
         connections2.add(connection);
         map.put(station2, connections2);
     }
-// --------------------------------------------------------------------------------------how this works??????????
     public static List<RailwayStation> findRoute(String startName, String endName) {
         RailwayStation start = null;
         RailwayStation end = null;
@@ -65,7 +63,6 @@ public class RailMap {
             }
         }
 
-        // check if both stations were found
         if (start == null || end == null) {
             throw new IllegalArgumentException("One or both stations not found in the map");
         }
@@ -95,11 +92,8 @@ public class RailMap {
                 }
             }
         }
-
-        // if route is not found we return empty list
         return new ArrayList<>();
     }
- // ????????????????????????????????????????????????????????????????????????????????????????????????????????
     public static double findRouteDistance(String startName, String endName){
         RailwayStation start = null;
         RailwayStation end = null;
@@ -112,7 +106,6 @@ public class RailMap {
             }
         }
         try {
-            // check if both stations were found
             if (start == null || end == null) {
                 throw new IllegalArgumentException("One or both stations not found in the map");
             }
@@ -148,7 +141,6 @@ public class RailMap {
             }
         }
 
-        // if route is not found we return empty list
         return -1;
     }
 
@@ -175,7 +167,7 @@ public class RailMap {
         path.add(0, current);
         return path;
     }
-    // here func finds two stations by their names and cals function removeConnection1 which removes connection
+
     public void removeConnection (String station1Name, String station2Name){
         RailwayStation station1 = null;
         RailwayStation station2 = null;
@@ -190,8 +182,6 @@ public class RailMap {
     }
 
     private void removeConnection1(RailwayStation station1, RailwayStation station2){
-
-
         ArrayList<Connection> connections1 = map.get(station1);
         ArrayList<Connection> connections2 = map.get(station2);
 
@@ -203,7 +193,7 @@ public class RailMap {
         connections2.removeIf(connection -> connection.getStation1().equals(station1)
                 && connection.getStation2().equals(station2));
     }
-    // finds two stations and cals func deleteStation1 to delete stations and connections to it
+
     public void deleteStation(String stationName){
         RailwayStation stationToRemove = null;
         for (RailwayStation station : map.keySet()) {
@@ -217,15 +207,12 @@ public class RailMap {
 
 
     private void deleteStation1(RailwayStation stationToRemove){
-
         if (stationToRemove != null) {
             for (ArrayList<Connection> connections : map.values()) {
                 connections.removeIf(connection ->
                         connection.getStation1().equals(stationToRemove) ||
                                 connection.getStation2().equals(stationToRemove));
             }
-
-            // Remove the station from the map
             map.remove(stationToRemove);
         }
     }

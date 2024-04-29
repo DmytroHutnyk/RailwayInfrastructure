@@ -8,7 +8,7 @@ import java.util.List;
 
 public class TrainSet implements Runnable {
     public boolean isAlive = true;
-    private static List<TrainSet> allTrainSets = new ArrayList<>();                 // list of all trainSets
+    private static List<TrainSet> allTrainSets = new ArrayList<>();
     private ArrayList<Object> trainSet;
     private RailMap map = RailMap.createMap();
     private int numOfElectCars = 0;
@@ -20,7 +20,6 @@ public class TrainSet implements Runnable {
     private double routeLength = -1;
 
 
-    // locomotive will be always 1(0) element of trainset
     public TrainSet(Locomotive locomotive){
         trainSet = new ArrayList<>();
         trainSet.add(locomotive);
@@ -92,14 +91,12 @@ public class TrainSet implements Runnable {
     }
 
 
-    //  here we simulate moving of trainSet along the route
 
     public void run(){
         Locomotive l1 =  (Locomotive) (trainSet.get(0));
-        l1.changeSpeed();                                   // change speed
+        l1.changeSpeed();
         RailwayStation stationNext = null;
         RailwayStation station = null;
-        // here we travel through all stations
         for(int i = 0; i< route.size()-1 && Main.appIsAlive && isAlive; i++) {
             stationNext = travelToNextStation(l1, route, i);
         }
@@ -109,7 +106,6 @@ public class TrainSet implements Runnable {
         ((Locomotive)trainSet.get(0)).setGonePartOfCurrentConnection(0);
         ((Locomotive)trainSet.get(0)).setPercentageOfCurrentConnection(0);
         ((Locomotive)trainSet.get(0)).setFullConnectionsDistancesGone(0);
-        // here we wait on the end of route 30 sec and go backwards
         int t = 0;
         while (Main.appIsAlive && t<30 && isAlive)
             try {
@@ -118,7 +114,6 @@ public class TrainSet implements Runnable {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        // here we determine new route to get back
         route = RailMap.findRoute(l1.getDestinationRalStation().getName(), l1.getStartingRalStation().getName());
         for(int i = 1; i< route.size()-1 && Main.appIsAlive && isAlive; i++) {
             stationNext = travelToNextStation(l1, route, i);
@@ -131,26 +126,23 @@ public class TrainSet implements Runnable {
         l1.stop();
 
     }
-    // here we travel from one station to another
     private RailwayStation travelToNextStation(Locomotive l1, List<RailwayStation> route, int i) {
         RailwayStation station;
         RailwayStation stationNext;
         station = route.get(i);
         stationNext = route.get(i+1);
         l1.setStation(station);
-        try {                        // here we wait 2 sec on each station
+        try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
-        ArrayList<Connection> aConnections = map.getMap().get(station);         // here we get list of all connections to current station
+        ArrayList<Connection> aConnections = map.getMap().get(station);
 
-        // check if there is such connections between two stations. e.g. Warsaw - Lviv or Lviv - Warsaw
         for (Connection connection : aConnections) {
             if ((connection.getStation1().equals(station) && connection.getStation2().equals(stationNext)) ||
                     (connection.getStation1().equals(stationNext) && connection.getStation2().equals(station))) {
-                //travel on this station
                 connection.travel(l1);
             }
         }
@@ -169,7 +161,6 @@ public class TrainSet implements Runnable {
         for (int i = 1; i < trainSet.size(); i++) {
             a.add((RailroadCar)trainSet.get(i));
         }
-        // here we sort in descending order
         a.sort(Comparator.comparingDouble(RailroadCar::getGrossWeight));
         toStringTrainset.append(trainSet.get(0)).append("\n  ");
         for (Object o: a)
