@@ -97,7 +97,7 @@ public class TrainSet implements Runnable {
         l1.changeSpeed();
         RailwayStation stationNext = null;
         RailwayStation station = null;
-        for(int i = 0; i< route.size()-1 && Main.appIsAlive && isAlive; i++) {
+        for(int i = 0; i< route.size()-1 && Controller.appIsAlive && isAlive; i++) {
             stationNext = travelToNextStation(l1, route, i);
         }
         station = stationNext;
@@ -107,7 +107,7 @@ public class TrainSet implements Runnable {
         ((Locomotive)trainSet.get(0)).setPercentageOfCurrentConnection(0);
         ((Locomotive)trainSet.get(0)).setFullConnectionsDistancesGone(0);
         int t = 0;
-        while (Main.appIsAlive && t<30 && isAlive)
+        while (Controller.appIsAlive && t<30 && isAlive)
             try {
                 Thread.sleep(1000);
                 t++;
@@ -115,7 +115,7 @@ public class TrainSet implements Runnable {
                 e.printStackTrace();
             }
         route = RailMap.findRoute(l1.getDestinationRalStation().getName(), l1.getStartingRalStation().getName());
-        for(int i = 1; i< route.size()-1 && Main.appIsAlive && isAlive; i++) {
+        for(int i = 1; i< route.size()-1 && Controller.appIsAlive && isAlive; i++) {
             stationNext = travelToNextStation(l1, route, i);
         }
 

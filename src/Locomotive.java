@@ -159,7 +159,7 @@ public class Locomotive{
     // here we change speed every 1 sec, randomly by 3%
     public synchronized void changeSpeed(){
         Thread speedThread = new Thread(() -> {
-            while (isGoingBrrrrrr && Main.appIsAlive){
+            while (isGoingBrrrrrr && Controller.appIsAlive){
                 try{
                     Thread.sleep(1000);
                 }catch (InterruptedException e){

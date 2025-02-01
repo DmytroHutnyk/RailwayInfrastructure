@@ -28,7 +28,7 @@ public class Connection {
     public synchronized void travel(Locomotive locomotive) {
         int timeToWait = 0;
         distanceToGO = distance;
-        while (distanceToGO > 0 && locomotive.isGoing() && Main.appIsAlive){
+        while (distanceToGO > 0 && locomotive.isGoing() && Controller.appIsAlive){
             double speed = locomotive.getSpeed();
             if(distanceToGO >= speed) {
                 distanceToGO -= speed;
