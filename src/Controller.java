@@ -13,7 +13,6 @@ public class Controller {
         try {
             appIsAlive = true;
             RailMap railMap = RailMap.createMap();
-            printInstructions();
             System.out.println("Initializing railway system...");
 
             BufferedReader br = new BufferedReader( new InputStreamReader( new FileInputStream("src/data/cities.txt")));
@@ -128,7 +127,7 @@ public class Controller {
             Thread logger = new Thread( () ->{
                 try {
 
-                    BufferedWriter bw = new BufferedWriter( new OutputStreamWriter( new FileOutputStream("src/data/AppState.txt")));
+                    BufferedWriter bw = new BufferedWriter( new OutputStreamWriter( new FileOutputStream("src/data/AppState.txt", false)));
                     int i = 0;
                     while (appIsAlive){
                         bw.write("Log on: "+i+" seconds");
@@ -164,6 +163,7 @@ public class Controller {
         railMap = RailMap.createMap();
         Scanner scanner = new Scanner(System.in);
         System.out.println("To quit from application enter quit");
+        printInstructions();
         String line;
         while ( !( line  = scanner.nextLine() ).equals( "quit")) {
             try {
